@@ -1,0 +1,11 @@
+How to use our finalGradeInterface code:
+1) Save our code in your own MATLAB file on your computer.
+2) Open finalGradeInterface in MATLAB. In the command window type "finalGradeInterface()" and press enter
+3) This may take a second to load. A new window will pop up with several slots.
+4) The first slot is where you will enter your grades from the course, they are to be seperated by commas and in decimal form.
+5) The second slot is where you will enter the different weights of each of the grades, be sure they are in the same order as above, also seperated by commas and in decimal form.
+6) The third box will be where you enter your desired grade for the course also make sure this is in decimal form.
+7) The fourth box will be where you enter the weight of the final make sure this is also in decimal form.
+8) The last box is an optional box where you can input what you got on the final in decimal form.
+9) Once you have entered all of your grades the correct way you can either choose to calculate what you need on the final or what your overall
+grade in the class is by clicking the corresponding buttons.
